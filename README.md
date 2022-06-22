@@ -5,4 +5,3 @@ Interested in the intersection of analytics, statistics, and machine learning me
 * Homepage: http://nickkunz.com
 * LinkedIn: https://linkedin.com/in/nickunz
 * Twitter: https://twitter.com/nickkunz
-* Stack: https://stackexchange.com/users/15352349/nick-kunz?tab=accounts
