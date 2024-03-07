@@ -5,3 +5,6 @@ Interested in the intersection of analytics, statistics, and machine learning me
 * Homepage: http://nickkunz.com
 * LinkedIn: https://linkedin.com/in/inkunz
 * Twitter: https://twitter.com/nickkunz
+
+## Stats
+![Nicks's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickkunz&hide_title=true&theme=radical&langs_count=3)
