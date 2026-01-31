@@ -1,5 +1,5 @@
 ## About Me
-Interested in the intersection of analytics, statistics, and machine learning methods in urban planning, public health, and engineering. Previous military and civil service with a deep commitment to the public good. Inactive musician with previous work in various roles on tours across North America.
+Interested in the intersection of data science, machine learning, and complex systems in urban planning, public health, and engineering. Previous military and civil service with a deep commitment to the public good. Inactive musician with previous work in various roles on tours across North America.
 
 ## Links
 * Homepage: http://nickkunz.com
