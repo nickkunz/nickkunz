@@ -4,4 +4,4 @@ Interested in the intersection of data science, machine learning, and complex sy
 ## Links
 * Homepage: http://nickkunz.com
 * LinkedIn: https://linkedin.com/in/inkunz
-* Twitter: https://twitter.com/nickkunz
+  
